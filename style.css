@@ -72,7 +72,8 @@ body{
         translate: 0;
         background-image: url('boom.gif');
     }
-    60%{
+    51%{
+
         background-image: url('boom.gif');
     }
 }
